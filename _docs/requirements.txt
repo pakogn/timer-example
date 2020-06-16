@@ -1,0 +1,13 @@
+Crear un contador que reciba el tiempo de una base de datos en php y a ese tiempo sumarle 5 días más, se requiere que el contador esté en una pantalla centrado y con un botón para detenerlo. Deberá usar BS4 y CSS (de ser requerido).
+
+Se evaluará:
+- Organización de código.
+- Uso de clases.
+- Originalidad del diseño.
+- Puntualidad.
+- Responsive.
+
+Contará con 1 hora para realizar el diseño y la funcionalidad, deberá comprimir el fichero y enviarlo por este medio.
+
+- digamos que va a mostrar fecha y hora con segundos, para apreciar que se está refrescando.
+- se pueden ocupar paquetes javascript y php?
